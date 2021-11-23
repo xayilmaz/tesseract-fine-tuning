@@ -1,4 +1,4 @@
-# Tesseract Fine Tuning for ± a Few Characters
+# Tesseract Fine Tuning for ± a Few Character
 ## This repository has the scripts for installing and training Tesseract 4+.
 
 ### Folder Structure
