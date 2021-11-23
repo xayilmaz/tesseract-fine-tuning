@@ -6,7 +6,7 @@ The project has the following structure:
 
 ```
 |-- README.md
-|-- output               		 // Checkpoints and model saved here
+|-- output                   // Checkpoints and model saved here
 |-- trainplusminus           // Training Data is placed here
 |-- training.sh              // Script for Training Tesseract
 |-- install_tesseract.sh     // Script for installing Tesseract
